@@ -1,0 +1,30 @@
+{
+  "name": "diszar-cli",
+  "version": "0.0.1",
+  "description": "A CLI tool for effortlessly creating Diszar templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xNizar/Diszar-CLI.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord-template",
+    "discord.js",
+    "discord-bot-template",
+    "discord-template-bot",
+    "discord",
+    "bots",
+    "discord-es6",
+    "discord-js"
+  ],
+  "author": "0xNizar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xNizar/Diszar-CLI/issues"
+  },
+  "homepage": "https://github.com/0xNizar/Diszar-CLI#readme"
+}
