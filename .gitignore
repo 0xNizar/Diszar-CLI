@@ -21,6 +21,7 @@ coverage
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock.json
 
 # TypeScript compiled files
 *.tsbuildinfo
