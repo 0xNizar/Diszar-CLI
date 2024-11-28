@@ -8,7 +8,7 @@ import chalk from "chalk";
 const log = console.log;
 const templateUrl = "https://github.com/0xNizar/Diszar-Template";
 
-// Ask the user for the template URL and project name
+// Ask the user for the project name
 const getUserInput = async () => {
   const { projectName } = await inquirer.prompt([
     {
